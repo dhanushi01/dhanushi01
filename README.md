@@ -3,4 +3,4 @@ Currently working on tech skill development<br>Learning MERN stack (MongoDB, Exp
 
 
 ## 🌐 Socials:
-https://linkedin.com/in/Dhanushi Piyaratne
+https://linkedin.com/in/Dhanushi_Piyaratne
